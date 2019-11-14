@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chris
+=======
+this is random text
+
